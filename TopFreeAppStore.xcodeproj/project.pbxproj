@@ -376,7 +376,6 @@
 				TargetAttributes = {
 					2E11D26E1E569F4600547E2E = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = BWWV7CTR2S;
 						ProvisioningStyle = Automatic;
 					};
 					2E11D2851E569F4700547E2E = {
@@ -649,7 +648,7 @@
 			baseConfigurationReference = 94BED82BF6210D4D130C4B02 /* Pods-TopFreeAppStore.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BWWV7CTR2S;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/TopFreeAppStore/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.javiermanzo.topfreeappstore;
@@ -664,7 +663,7 @@
 			baseConfigurationReference = 0AAC238AA0CBD32F74488F10 /* Pods-TopFreeAppStore.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BWWV7CTR2S;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/TopFreeAppStore/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.javiermanzo.topfreeappstore;
